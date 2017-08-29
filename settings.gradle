@@ -1,0 +1,2 @@
+include ':app','sample-core'
+project(':sample-core').projectDir = new File('app/libs/sample-core')
