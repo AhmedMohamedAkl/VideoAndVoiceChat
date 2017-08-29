@@ -11,19 +11,14 @@
         android:gravity="center_horizontal"
         android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/text_splash_app_title"
-            style="@style/SplashAppTitleStyle"
-            tools:text="AppName"/>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_vc"/>
 
-        <TextView
-            android:id="@+id/text_splash_app_version"
-            style="@style/SplashAppVersionStyle"
-            android:layout_marginTop="20dp"
-            tools:text="splash chat version" />
     </LinearLayout>
 
-    <ImageView
-        style="@style/SplashLogoStyle"
-        android:layout_marginBottom="40dp" />
+
 </RelativeLayout>

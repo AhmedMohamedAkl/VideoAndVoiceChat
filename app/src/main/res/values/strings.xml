@@ -96,14 +96,14 @@
     <string name="text_status_time_out">Time Out</string>
     <string name="text_status_failed">Failed</string>
 
-    <string name="text_welcoming_message">Please enter username and chat room name. \nYou can join existed chat room.</string>
+    <string name="text_welcoming_message">Please enter username and chat room name. \nYou can join to public chat room.</string>
     <string name="hint_user_name">User name</string>
     <string name="hint_chat_room_name">Chat room name</string>
 
     <string name="text_select_user_to_call">Select users you want to call</string>
 
     <string name="call_was_stopped_connection_lost">Call was stopped because connection was lost</string>
-    <string name="connection_lost">Connection lost</string>
+    <string name="cnnection_lost">Connection lost</string>
 
     <string name="text_push_notification_message">"%s is calling you"</string>
 
